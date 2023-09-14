@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BasicFragment</string>
+    <string name="todo_title_label">ToDo</string>
+    <string name="todo_detail_label">Details</string>
+    <string name="todo_title_hint">Enter title task</string>
+    <string name="done_label">Done</string>
+</resources>
